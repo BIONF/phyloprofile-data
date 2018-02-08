@@ -1,4 +1,4 @@
-geneID	ncbiID	orthoID	Domain_architecture_similarity	traceability
+geneID	ncbiID	orthoID	Domain_similarity	traceability
 OG_1009	ncbi329726	NA	NA	0.131962040006279
 OG_1009	ncbi7029	NA	NA	0.44963175820347
 OG_1009	ncbi7159	NA	NA	0.132270066555961
