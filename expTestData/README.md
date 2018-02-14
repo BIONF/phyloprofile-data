@@ -1,9 +1,9 @@
 # Test Data for [PhyloProfile Tool](https://github.com/BIONF/PhyloProfile)
 
-This folder contains phylogenetic profile data for AMPK-TOR pathway, which is based on the work of [Roustan et. al (2016)](https://doi.org/10.1093/jxb/erw211).
+This folder contains some experimental data for testing *PhyloProfile*:
 
-_ampk-tor.phyloprofile_ is the main input file.
+- `ampk-tor.zip`: phylogenetic profile of AMPK-TOR pathway, which is based on the work of [Roustan et. al (2016)](https://doi.org/10.1093/jxb/erw211). The corresponding folder `ampk-tor` contains the same data, which are used for **Use online demo data** function *(in Input and settings page of PhyloProfile tool)*.
 
-Use *domains_B* or *domains_F* file depending on the direction of the protein architecture comparison (F for forward, i.e. missing domains in seed proteins will be penalized; and B for backward. i.e. missing domains in orthologs will be penalized).
+- `NIHMS656878.txt.zip`: phylogenetic profile spans 31,406 human genes and 177 species generated from the study of [Dey et al (2015)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5016211/).
 
-For representing FASTA sequences, input *ampk-tor.extended.fa* file into `FASTA config` -> `Choose location for: oneSeq.extended.fa`.
+- `lca_microsporidia.zip`: phylogenetic data for 1605 last common ancestor Microsporidia genes across 489 species, which were used for testing [the performance of PhyloProfile](https://github.com/BIONF/PhyloProfile/wiki/Performance-test).
