@@ -1,7 +1,7 @@
 # LCA Microsporidia demo data
 
 ## Description
-This demo data is a *subset* of the [LCA Microsporidia data](https://github.com/BIONF/phyloprofile-data/blob/master/expTestData/lca_microsporidia.zip) used for [testing the performance](https://github.com/BIONF/PhyloProfile/wiki/Performance-test) of *PhyloProfile*. It contains the phylogenetic profiles of 14 genes across 211 taxa, integrated with 2 additional information layers: **(1) Domain architecture similarity** and **(2) Traceability** scores.
+This demo data is a *subset* of the [LCA Microsporidia data](https://github.com/BIONF/phyloprofile-data/blob/master/expTestData/lca_microsporidia.zip) used for [testing the performance](https://github.com/BIONF/PhyloProfile/wiki/Performance-test) of *PhyloProfile*. It contains the phylogenetic profiles of 14 genes across 231 taxa, integrated with 2 additional information layers: **(1) Domain architecture similarity** and **(2) Traceability** scores.
 
 *Domain architecture similarity* scores are used to compare the protein architecture between seed and its ortholog ([Koestler et al. (2010), BMC Bioinformatics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2931517/)). While *Traceability* of a protein defines the point beyond which sequence similarity based approaches are bound to fail for a ortholog prediction (Jain et al., unpublished).
 
