@@ -17,7 +17,7 @@ Use one of those files as the **Main input** file on the *Input & settings* page
 
 ### Optional input files:
 - `domain_files/*.domains`: This folder contains the feature architecture data that you can optionally give under the **Additional annotation input** upload on the *Input & settings* page after startup.
-- `fasta_files/*.fa`: This folder contains the fasta sequences for demo input. In order to show the sequence in **Detailed plot** you have to set path to fasta folder in **FASTA config** on the *Input & settings* page after startup.
+- `fasta_file/concatenatedSeq.fa`: This file contains the fasta sequences for demo input. In order to show the sequence in **Detailed plot** you have to input the file using **FASTA config** option in the *Input & settings* page after startup.
 - `other/test.geneList`: After doing the initial plot with the files above you can use this file on the *Customized profile* tab to sub-select for only the genes present in this file.
 - `other/test.taxaList`: This contains list of taxon names. Use this to test the function of fetching NCBI taxonomy IDs, which can be found in *Function* tab.
 
