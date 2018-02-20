@@ -2302,3 +2302,200 @@ ncbiID	fullName	rank	parentID
 203682	Planctomycetes	phylum	1783257
 243230	Deinococcus radiodurans R1	norank	1299
 1299	Deinococcus radiodurans	species	1298
+1041015	Drosophila rhopaloa	species	65962
+65962	rhopaloa subgroup	speciessubgroup	32346
+33392	Holometabola	cohort	33340
+33340	Neoptera	infraclass	7496
+7496	Pterygota	subclass	85512
+104421	Camponotus floridanus	species	13390
+13390	Camponotus	genus	72773
+72773	Camponotini	tribe	7479
+7479	Formicinae	subfamily	36668
+7434	Aculeata	infraorder	7400
+7400	Apocrita	suborder	7399
+113334	Melitaea cinxia	species	104514
+104514	Melitaea	genus	171580
+171580	Melitaeina	subtribe	171578
+171578	Melitaeini	tribe	40040
+40040	Nymphalinae	subfamily	33415
+33415	Nymphalidae	family	37572
+37572	Papilionoidea	superfamily	104431
+85604	Amphiesmenoptera	norank	33392
+121224	Pediculus humanus corporis	subspecies	121225
+33342	Paraneoptera	cohort	33340
+125945	Drosophila biarmipes	species	32353
+32353	suzukii subgroup	speciessubgroup	32346
+126957	Strigamia maritima	species	126956
+126956	Strigamia	genus	126955
+126955	Linotaeniidae	family	60154
+60154	Geophilomorpha	order	115407
+115407	Epimorpha	norank	115405
+115405	Pleurostigmophora	subclass	7540
+7540	Chilopoda	class	61985
+61985	Myriapoda	subphylum	197563
+12957	Atta cephalotes	species	12956
+12956	Atta	genus	143999
+143999	Attini	tribe	34695
+34695	Myrmicinae	subfamily	36668
+13037	Danaus plexippus	species	151542
+151542	Danaus	subgenus	13036
+13036	Danaus	genus	344705
+344705	Danaina	subtribe	30248
+30248	Danaini	tribe	127218
+127218	Danainae	subfamily	33415
+132113	Bombus impatiens	species	144703
+144703	Pyrobombus	subgenus	28641
+13249	Rhodnius prolixus	species	13248
+13248	Rhodnius	genus	70999
+70999	Triatominae	subfamily	27479
+27479	Reduviidae	family	33356
+33356	Reduvioidea	superfamily	33354
+33354	Cimicomorpha	norank	33351
+33351	Panheteroptera	norank	33349
+33349	Neoheteroptera	norank	33347
+33347	Euheteroptera	norank	33345
+33345	Heteroptera	norank	33343
+33343	Prosorrhyncha	norank	7524
+136037	Zootermopsis nevadensis	species	7502
+7502	Zootermopsis	genus	127821
+127821	Termopsini	tribe	127820
+127820	Termopsinae	subfamily	7501
+7501	Termopsidae	family	1912919
+1912919	Termitoidae	norank	1049657
+1049657	Blattoidea	superfamily	85823
+85823	Blattodea	order	6970
+6970	Dictyoptera	norank	33341
+33341	Polyneoptera	cohort	33340
+13686	Solenopsis invicta	species	13685
+13685	Solenopsis	genus	144017
+144017	Solenopsidini	tribe	34695
+2015173	Ooceraea biroi	species	2015172
+2015172	Ooceraea	genus	213859
+213859	Dorylinae	subfamily	36668
+232323	Hypsibius dujardini	species	58670
+58670	Hypsibius	genus	58669
+58669	Hypsibiidae	family	149990
+149990	Parachela	order	42242
+42242	Eutardigrada	class	42241
+42241	Tardigrada	phylum	88770
+29029	Drosophila eugracilis	species	32349
+32349	eugracilis subgroup	speciessubgroup	32346
+29030	Drosophila takahashii	species	32354
+32354	takahashii subgroup	speciessubgroup	32346
+30023	Drosophila elegans	species	32348
+32348	elegans subgroup	speciessubgroup	32346
+30025	Drosophila ficusphila	species	32350
+32350	ficusphila subgroup	speciessubgroup	32346
+30033	Drosophila kikkawai	species	32352
+32352	montium subgroup	speciessubgroup	32346
+32264	Tetranychus urticae	species	32263
+32263	Tetranychus	genus	32262
+32262	Tetranychidae	family	83146
+83146	Tetranychoidea	superfamily	188550
+188550	Raphignathae	norank	83145
+83145	Eleutherengona	infraorder	6947
+6947	Prostigmata	suborder	83136
+83136	Trombidiformes	order	6946
+6946	Acariformes	superorder	6933
+34506	Strongyloides ratti	species	6247
+6247	Strongyloides	genus	6246
+6246	Strongyloididae	family	55746
+55746	Panagrolaimoidea	superfamily	6236
+34740	Heliconius melpomene	species	33416
+33416	Heliconius	genus	127322
+127322	Heliconiini	tribe	40037
+40037	Heliconiinae	subfamily	33415
+37653	Octopus bimaculoides	species	6643
+6643	Octopus	genus	6647
+6647	Octopodidae	family	6646
+6646	Incirrata	suborder	6638
+6638	Octopoda	order	215451
+215451	Octopodiformes	superorder	215449
+215449	Neocoleoidea	infraclass	6606
+6606	Coleoidea	subclass	6605
+6605	Cephalopoda	class	6447
+42026	Drosophila bipectinata	species	186282
+186282	bipectinata species complex	norank	32347
+43151	Anopheles darlingi	species	44552
+44552	darlingi group	speciesgroup	44546
+44546	argyritarsis series	norank	44545
+44545	argyritarsis section	norank	44543
+44543	Nyssorhynchus	subgenus	7164
+46245	Drosophila pseudoobscura pseudoobscura	subspecies	7237
+48698	Poecilia formosa	species	8080
+8080	Poecilia	genus	586240
+586240	Poeciliinae	subfamily	8079
+8079	Poeciliidae	family	8087
+8087	Cyprinodontoidei	suborder	28738
+28738	Cyprinodontiformes	order	1489913
+52283	Sarcoptes scabiei	species	52282
+52282	Sarcoptes	genus	474019
+474019	Sarcoptinae	subfamily	52281
+52281	Sarcoptidae	family	83158
+83158	Sarcoptoidea	superfamily	223472
+223472	Psoroptidia	norank	6951
+6951	Astigmata	order	83137
+83137	Sarcoptiformes	norank	6946
+59894	Ficedula albicollis	species	36292
+36292	Ficedula	genus	36291
+36291	Muscicapidae	family	9126
+60711	Chlorocebus sabaeus	species	392815
+392815	Chlorocebus	genus	9528
+610380	Harpegnathos saltator	species	604375
+604375	Harpegnathos	genus	141711
+141711	Ponerini	tribe	43085
+43085	Ponerinae	subfamily	36668
+6279	Brugia malayi	species	6278
+6278	Brugia	genus	6296
+6295	Filarioidea	superfamily	2072716
+2072716	Spiruromorpha	infraorder	6274
+6282	Onchocerca volvulus	species	6281
+6281	Onchocerca	genus	6296
+72036	Lepeophtheirus salmonis	species	72035
+72035	Lepeophtheirus	genus	72034
+72034	Caligidae	family	72033
+72033	Siphonostomatoida	order	116571
+116571	Podoplea	superorder	116569
+116569	Neocopepoda	infraclass	6830
+6830	Copepoda	subclass	72037
+72037	Maxillopoda	class	6657
+73382	Capitella sp. 1	species	51293
+7375	Lucilia cuprina	species	7374
+7374	Lucilia	genus	43914
+43914	Luciliinae	subfamily	7371
+7371	Calliphoridae	family	43755
+43755	Oestroidea	superfamily	43742
+43742	Calyptratae	norank	43738
+7574	Lingula anatina	species	7571
+7571	Lingula	genus	33491
+33491	Lingulidae	family	115362
+115362	Linguloidea	superfamily	7570
+7570	Lingulida	order	115361
+115361	Lingulata	class	115360
+115360	Linguliformea	subphylum	7568
+7568	Brachiopoda	phylum	1206795
+77166	Dendroctonus ponderosae	species	77156
+77156	Dendroctonus	genus	55867
+55867	Scolytinae	subfamily	7042
+7042	Curculionidae	family	71529
+71529	Curculionoidea	superfamily	41088
+7994	Astyanax mexicanus	species	7993
+7993	Astyanax	genus	883878
+883878	Astyanax clade	norank	533331
+533331	Characidae incertae sedis	norank	7992
+7992	Characidae	family	1489739
+1489739	Characoidei	suborder	7991
+7991	Characiformes	order	186628
+186628	Characiphysae	superorder	186626
+8083	Xiphophorus maculatus	species	8082
+8082	Xiphophorus	genus	586240
+8128	Oreochromis niloticus	species	8139
+8139	Oreochromis	genus	1315725
+1315725	Oreochromini	tribe	318546
+9103	Meleagris gallopavo	species	9102
+9102	Meleagris	genus	466552
+466552	Meleagridinae	subfamily	9005
+9555	Papio anubis	species	9554
+9940	Ovis aries	species	9935
+9935	Ovis	genus	9963
+9963	Caprinae	subfamily	9895
