@@ -26,9 +26,11 @@ Use one of those files as the **Main input** file on the *Input & settings* page
 
 	`python scripts/convert_oma_standalone_orthoxml.py -x oma_example.orthoxml -m taxon_mapping_oma_orthoxml.csv > oma_example_phyloprofile_compatible.orthoxml`
 
-- `oma/omaIDs.list`: use this file for testing fetching OMA HOGs by using the command
+- `oma/omaIDs.list`: use this file for testing fetching OMA orthologs (OMA pairs, OMA groups or OMA HOGs) by using the command
 
-	`python ./scripts/get_oma_hogs.py -i omaIDs.list`
+	`python ./scripts/get_oma_browser.py -i omaIDs.list -t PAIR`
+
+	*see [this WIKI Section](https://github.com/BIONF/PhyloProfile/wiki/Input-Data#oma-browser) for more detail about `get_oma_browser.py`.*
 
 - `pfamAnno/hmmscanOut.txt` and `pfamAnno/pfamscanOut.txt`: PFAM annotation output files from hmmscan and pfamscan. Run the following commands to convert them into compatible domain files:
 
