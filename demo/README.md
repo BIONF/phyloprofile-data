@@ -38,4 +38,4 @@ Use one of those files as the **Main input** file on the *Input & settings* page
 
 	(replace *hmmscanParser.py* by *pfamscanParser.py* for parsing pfamscan output file).
 
-<h3>_* Detail about input files are expained in [PhyloProfile Wiki Page](https://github.com/BIONF/PhyloProfile/wiki/Input-Data)._
+<h3>_* Detail about input files are expained in [PhyloProfile Wiki Page](https://github.com/BIONF/PhyloProfile/wiki/Input-Data). _
