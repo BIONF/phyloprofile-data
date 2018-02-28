@@ -12,4 +12,4 @@ This folder contains phylogenetic profile data for AMPK-TOR pathway, which is ba
 
 - Optional **FASTA sequence file**:  `ampk-tor.extended.fa` _(input into `FASTA config` -> `Choose location for: oneSeq.extended.fa`)_.
 
-<h3>_* Different input formats are described in our [Input-Data Wiki Page](https://github.com/BIONF/PhyloProfile/wiki/Input-Data)._
+### Different input formats are described in our [Input-Data Wiki Page](https://github.com/BIONF/PhyloProfile/wiki/Input-Data).
