@@ -2499,3 +2499,146 @@ ncbiID	fullName	rank	parentID
 9940	Ovis aries	species	9935
 9935	Ovis	genus	9963
 9963	Caprinae	subfamily	9895
+1093141	Nannochloropsis gaditana CCMP526	norank	72520
+72520	Nannochloropsis gaditana	species	5748
+5748	Nannochloropsis	genus	425072
+425072	Monodopsidaceae	family	425074
+425074	Eustigmatales	order	5747
+5747	Eustigmatophyceae	phylum	33634
+109376	Brassica oleracea var. oleracea	varietas	3712
+3712	Brassica oleracea	species	3705
+131221	Streptophytina	subphylum	35493
+110835	Eragrostis tef	species	38413
+38413	Eragrostis	genus	751752
+751752	Eragrostidinae	subtribe	147436
+147436	Eragrostideae	tribe	147371
+147371	Chloridoideae	subfamily	147370
+4734	commelinids	norank	1437197
+1437197	Petrosaviidae	subclass	4447
+1169540	Vitrella brassicaformis CCMP3155	norank	1169539
+1169539	Vitrella brassicaformis	species	1169538
+1169538	Vitrella	genus	877183
+877183	Chromerida	phylum	33630
+1173701	Colletotrichum sublineola	species	5455
+5455	Colletotrichum	genus	681950
+681950	Glomerellaceae	family	1028384
+120017	Ustilago hordei	species	5269
+13333	Amborella trichopoda	species	13332
+13332	Amborella	genus	22097
+22097	Amborellaceae	family	261009
+261009	Amborellales	order	232365
+232365	basal Magnoliophyta	norank	3398
+192523	Agaricus bisporus var. bisporus	varietas	5341
+5341	Agaricus bisporus	species	5340
+5340	Agaricus	genus	5339
+5339	Agaricaceae	family	5338
+31870	Colletotrichum graminicola	species	5455
+332648	Botrytis cinerea B05.10	norank	40559
+341663	Aspergillus terreus NIH2624	norank	33178
+34305	Lotus japonicus	species	3867
+3867	Lotus	genus	163747
+163747	Loteae	tribe	3814
+34373	Blumeria graminis	species	34372
+34372	Blumeria	genus	34371
+34371	Erysiphaceae	family	5120
+5120	Erysiphales	order	147548
+3635	Gossypium hirsutum	species	3633
+3633	Gossypium	genus	214907
+214907	Malvoideae	subfamily	3629
+3629	Malvaceae	family	41938
+41938	Malvales	order	91836
+3641	Theobroma cacao	species	3640
+3640	Theobroma	genus	214909
+214909	Byttnerioideae	subfamily	3629
+3708	Brassica napus	species	3705
+37682	Aegilops tauschii	species	4480
+4480	Aegilops	genus	1648030
+1648030	Triticinae	subtribe	147389
+147389	Triticeae	tribe	1648038
+1648038	Triticodae	norank	147368
+39946	Oryza sativa Indica Group	norank	4530
+4113	Solanum tuberosum	species	4107
+413071	Trichoderma virens Gv29-8	norank	29875
+41413	Aspergillus glaucus	species	5052
+441959	Talaromyces stipitatus ATCC 10500	norank	28564
+452589	Trichoderma atroviride IMI 206040	norank	63577
+4528	Oryza longistaminata	species	4527
+4529	Oryza rufipogon	species	4527
+4565	Triticum aestivum	species	4564
+4564	Triticum	genus	1648030
+4572	Triticum urartu	species	4564
+4790	Phytophthora nicotianae	species	4783
+4792	Phytophthora parasitica	species	4783
+500485	Penicillium rubens Wisconsin 54-1255	norank	1108849
+1108849	Penicillium rubens	species	254878
+254878	Penicillium chrysogenum species complex	norank	5073
+50452	Arabis alpina	species	50451
+50451	Arabis	genus	981070
+981070	Arabideae	tribe	3700
+5053	Aspergillus aculeatus	species	5052
+510516	Aspergillus oryzae RIB40	norank	5062
+552467	Cryptococcus gattii VGIII	species	1884637
+1884637	Cryptococcus gattii species complex	norank	5206
+5580	Aureobasidium pullulans	species	5579
+5579	Aureobasidium	genus	1570301
+1570301	Saccotheciaceae	family	5014
+5014	Dothideales	order	451867
+559515	Hyaloperonospora arabidopsidis Emoy2	norank	272952
+272952	Hyaloperonospora arabidopsidis	species	184462
+184462	Hyaloperonospora	genus	4777
+4777	Peronosporaceae	family	4776
+564608	Micromonas pusilla CCMP1545	norank	38833
+5866	Babesia bigemina	species	5864
+656061	Tuber melanosporum Mel28	norank	39416
+670386	Polysphondylium pallidum PN500	norank	13642
+13642	Heterostelium pallidum	species	2058189
+2058189	Heterostelium	genus	2058183
+2058183	Acytosteliaceae	family	2058181
+2058181	Acytosteliales	order	33083
+33083	Dictyostelids	norank	142796
+694068	Fomitiporia mediterranea MF3/22	norank	208960
+208960	Fomitiporia mediterranea	species	167346
+167346	Fomitiporia	genus	40424
+40424	Hymenochaetaceae	family	139380
+139380	Hymenochaetales	order	355688
+695850	Saprolegnia parasitica CBS 223.65	norank	101203
+717944	Trametes versicolor FP-101664 SS1	norank	5325
+5325	Trametes versicolor	species	5324
+5324	Trametes	genus	5317
+5317	Polyporaceae	family	5303
+721885	Stereum hirsutum FP-91666 SS1	norank	40492
+40492	Stereum hirsutum	species	5644
+5644	Stereum	genus	103376
+103376	Stereaceae	family	452342
+732165	Dichomitus squalens LYAD-421 SS1	norank	114155
+114155	Dichomitus squalens	species	114154
+114154	Dichomitus	genus	5317
+741275	Punctularia strigosozonata HHB-11173 SS5	norank	202698
+202698	Punctularia strigosozonata	species	133746
+133746	Punctularia	genus	908827
+908827	Punctulariaceae	family	452338
+452338	Corticiales	order	355688
+741705	Coniophora puteana RWD-64-598 SS2	norank	80637
+80637	Coniophora puteana	species	80635
+80635	Coniophora	genus	80634
+80634	Coniophoraceae	family	227334
+742152	Wolfiporia cocos MD-104 SS10	norank	81056
+81056	Wolfiporia cocos	species	81055
+81055	Wolfiporia	genus	2028212
+2028212	Laetiporaceae	family	5303
+743788	Fomitopsis pinicola FP-58527 SS1	norank	40483
+40483	Fomitopsis pinicola	species	34474
+34474	Fomitopsis	genus	1769247
+1769247	Fomitopsidaceae	family	5303
+753081	Bigelowiella natans CCMP2755	norank	227086
+764103	Mixia osmundae IAM 14324	norank	34349
+34349	Mixia osmundae	species	34348
+34348	Mixia	genus	165795
+165795	Mixiaceae	family	432026
+432026	Mixiales	order	432025
+432025	Mixiomycetes	class	29000
+82310	Phlebiopsis gigantea	species	82309
+82309	Phlebiopsis	genus	396331
+296543	Thalassiosira pseudonana CCMP1335	norank	35128
+51351	Brassica rapa subsp. pekinensis	subspecies	3711
+595528	Capsaspora owczarzaki ATCC 30864	norank	192875
