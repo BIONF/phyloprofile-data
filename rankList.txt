@@ -273,11 +273,6 @@ ncbi1096997	Acinetobacter baumannii BJAB0868	strain	species	speciesgroup	genus	f
 ncbi1116235	Acinetobacter baumannii AB5256	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
 ncbi1398978	Acinetobacter baumannii UH6907	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
 ncbi1409922	Acinetobacter baumannii MRSN 3405	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-ncbi2000001	ACIAD	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-ncbi2000015	AbH12O-A2-5	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-ncbi2000016	AB30-5	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-ncbi2000018	XH858-8	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-ncbi2000022	ATCC-17978-mff	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
 ncbi202950	Acinetobacter baylyi	species	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
 ncbi405416	Acinetobacter baumannii ACICU	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
 ncbi509173	Acinetobacter baumannii AYE	strain	species	speciesgroup	genus	family	order	class	phylum	superkingdom	norank_131567	norank_1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

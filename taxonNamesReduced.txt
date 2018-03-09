@@ -1394,11 +1394,6 @@ ncbiID	fullName	rank	parentID
 1116235	Acinetobacter baumannii AB5256	norank	470
 1398978	Acinetobacter baumannii UH6907	norank	470
 1409922	Acinetobacter baumannii MRSN 3405	norank	470
-2000001	ACIAD	norank	470
-2000015	AbH12O-A2-5	norank	470
-2000016	AB30-5	norank	470
-2000018	XH858-8	norank	470
-2000022	ATCC-17978-mff	norank	470
 202950	Acinetobacter baylyi	species	469
 405416	Acinetobacter baumannii ACICU	norank	470
 509173	Acinetobacter baumannii AYE	norank	470
