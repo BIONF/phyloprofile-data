@@ -1384,28 +1384,11 @@ ncbiID	fullName	rank	parentID
 5758	Entamoeba	genus	33084
 33084	Entamoebidae	norank	555406
 555406	Archamoebae	norank	554915
-1096995	Acinetobacter baumannii BJAB07104	norank	470
 470	Acinetobacter baumannii	species	909768
 909768	Acinetobacter calcoaceticus/baumannii complex	speciesgroup	469
 469	Acinetobacter	genus	468
 468	Moraxellaceae	family	72274
-1096996	Acinetobacter baumannii BJAB0715	norank	470
-1096997	Acinetobacter baumannii BJAB0868	norank	470
-1116235	Acinetobacter baumannii AB5256	norank	470
-1398978	Acinetobacter baumannii UH6907	norank	470
-1409922	Acinetobacter baumannii MRSN 3405	norank	470
 202950	Acinetobacter baylyi	species	469
-405416	Acinetobacter baumannii ACICU	norank	470
-509173	Acinetobacter baumannii AYE	norank	470
-557600	Acinetobacter baumannii AB307-0294	norank	470
-575584	Acinetobacter baumannii ATCC 19606 = CIP 70.34 = JCM 6841	norank	470
-889738	Acinetobacter baumannii MDR-TJ	norank	470
-903889	Acinetobacter baumannii OIFC137	norank	470
-903899	Acinetobacter baumannii IS-123	norank	470
-903904	Acinetobacter baumannii Naval-13	norank	470
-903935	Acinetobacter baumannii OIFC111	norank	470
-945556	Acinetobacter baumannii D1279779	norank	470
-202950999	Acinetobacter baylyi mod	norank	202950
 100226	Streptomyces coelicolor A3(2)	norank	1902
 1902	Streptomyces coelicolor	species	1477431
 1477431	Streptomyces albidoflavus group	norank	1883
