@@ -1,0 +1,322 @@
+OG_1029#E.cuniculi@6035@ECU01_0080	E.cuniculi@6035@ECU01_0080	coils_coiled_coil	155	175
+OG_1029#E.cuniculi@6035@ECU01_0080	E.cuniculi@6035@ECU01_0080	pfam_DUF3654	162	301
+OG_1029#E.cuniculi@6035@ECU01_0080	E.cuniculi@6035@ECU01_0080	seg_low complexity regions	213	229
+OG_1029#E.cuniculi@6035@ECU01_0080	E.cuniculi@6035@ECU01_0080	seg_low complexity regions	312	327
+OG_1029#E.cuniculi@6035@ECU01_0080	E.hellem@27973@EHEL_031590	pfam_DUF3654	99	215
+OG_1029#E.cuniculi@6035@ECU01_0080	E.hellem@27973@EHEL_031590	seg_low complexity regions	157	167
+OG_1029#E.cuniculi@6035@ECU01_0080	E.hellem@27973@EHEL_031590	seg_low complexity regions	169	187
+OG_1029#E.cuniculi@6035@ECU01_0080	E.hellem@27973@EHEL_031590	tmhmm_transmembrane	7	24
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	cast_E-rich	304	372
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	cast_K-rich	286	438
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	coils_coiled_coil	304	331
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	coils_coiled_coil	352	373
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	pfam_DUF1609	366	591
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	pfam_DUF3654	164	303
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	seg_low complexity regions	162	179
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	seg_low complexity regions	236	247
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	seg_low complexity regions	305	315
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	seg_low complexity regions	325	374
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	signalp_SIGNAL	1	21
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	smart_ZnF_GATA	192	214
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU01_0110	smart_ZnF_GATA	405	414
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	cast_E-rich	305	370
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	cast_K-rich	277	429
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	coils_coiled_coil	312	332
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	pfam_DUF1609	357	585
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	164	180
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	219	233
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	305	321
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	330	373
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	signalp_SIGNAL	1	21
+OG_1029#E.cuniculi@6035@ECU01_0110	E.cuniculi@6035@ECU04_1670	smart_ZnF_GATA	193	215
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	cast_E-rich	305	370
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	cast_K-rich	277	429
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	coils_coiled_coil	312	332
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	pfam_DUF1609	357	522
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	pfam_DUF3654	165	304
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	seg_low complexity regions	164	180
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	seg_low complexity regions	219	233
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	seg_low complexity regions	305	321
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	seg_low complexity regions	330	373
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	signalp_SIGNAL	1	21
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	smart_ZnF_GATA	193	215
+OG_1029#E.cuniculi@6035@ECU02_0050	E.cuniculi@6035@ECU02_0050	smart_ZnF_GATA	396	406
+OG_1029#E.cuniculi@6035@ECU02_0050	E.hellem@27973@EHEL_050050	cast_E-rich	294	389
+OG_1029#E.cuniculi@6035@ECU02_0050	E.hellem@27973@EHEL_050050	pfam_DUF1609	375	583
+OG_1029#E.cuniculi@6035@ECU02_0050	E.hellem@27973@EHEL_050050	pfam_DUF3654	189	329
+OG_1029#E.cuniculi@6035@ECU02_0050	E.hellem@27973@EHEL_050050	seg_low complexity regions	245	257
+OG_1029#E.cuniculi@6035@ECU02_0050	E.hellem@27973@EHEL_050050	seg_low complexity regions	331	339
+OG_1029#E.cuniculi@6035@ECU02_0050	E.hellem@27973@EHEL_050050	seg_low complexity regions	347	375
+OG_1029#E.cuniculi@6035@ECU02_0050	E.hellem@27973@EHEL_050050	seg_low complexity regions	377	389
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU02_0080	cast_E-rich	289	366
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU02_0080	cast_K-rich	286	425
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU02_0080	coils_coiled_coil	301	328
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU02_0080	pfam_DUF1609	353	578
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU02_0080	pfam_DUF3654	164	303
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU02_0080	seg_low complexity regions	326	361
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU02_0080	signalp_SIGNAL	1	16
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	cast_E-rich	304	366
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	cast_K-rich	286	425
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	coils_coiled_coil	304	331
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	pfam_DUF1609	353	578
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	pfam_DUF3654	164	303
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	218	234
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	303	323
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	324	361
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	368	386
+OG_1029#E.cuniculi@6035@ECU02_0080	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	399	420
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	cast_E-rich	305	370
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	cast_K-rich	277	429
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	coils_coiled_coil	312	332
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	pfam_DUF1609	357	585
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	pfam_DUF3654	165	304
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	164	180
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	219	233
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	305	321
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	330	373
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	signalp_SIGNAL	1	21
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	smart_ZnF_GATA	193	215
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU04_1670	smart_ZnF_GATA	396	406
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	cast_E-rich	304	366
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	cast_K-rich	286	425
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	coils_coiled_coil	304	331
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	pfam_DUF1609	353	578
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	pfam_DUF3654	164	303
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	218	234
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	303	323
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	324	361
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	368	386
+OG_1029#E.cuniculi@6035@ECU04_1670	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	399	420
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU05_1680	cast_E-rich	302	399
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU05_1680	cast_K-rich	284	458
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU05_1680	coils_coiled_coil	295	381
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU05_1680	pfam_DUF1609	386	611
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU05_1680	pfam_DUF3654	162	301
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU05_1680	pfam_MIP-T3	268	463
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU05_1680	seg_low complexity regions	211	232
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU05_1680	seg_low complexity regions	310	379
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	cast_E-rich	304	366
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	cast_K-rich	286	425
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	coils_coiled_coil	304	331
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	pfam_DUF1609	353	578
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	pfam_DUF3654	164	303
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	218	234
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	303	323
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	324	361
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	368	386
+OG_1029#E.cuniculi@6035@ECU05_1680	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	399	420
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	cast_E-rich	185	259
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	cast_K-rich	185	324
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	coils_coiled_coil	202	229
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	pfam_DUF1609	251	476
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	pfam_DUF3654	45	184
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	185	197
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	206	236
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	238	260
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	266	282
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	99	114
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	cast_E-rich	166	240
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	cast_K-rich	166	305
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	coils_coiled_coil	183	210
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	pfam_DUF1609	232	457
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	pfam_DUF3654	26	165
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	166	178
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	187	217
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	219	241
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	247	263
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	5	10
+OG_1029#E.cuniculi@6035@ECU06_0040	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	80	95
+OG_1029#E.cuniculi@6035@ECU06_0050	E.cuniculi@6035@ECU06_0050	seg_low complexity regions	143	156
+OG_1029#E.cuniculi@6035@ECU06_0050	E.cuniculi@6035@ECU06_1670	seg_low complexity regions	143	156
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	cast_E-rich	305	370
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	cast_K-rich	277	429
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	coils_coiled_coil	312	332
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	pfam_DUF1609	357	585
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	pfam_DUF3654	165	304
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	164	180
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	219	233
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	305	321
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	seg_low complexity regions	330	373
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU04_1670	signalp_SIGNAL	1	21
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	cast_E-rich	306	368
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	cast_K-rich	306	427
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	coils_coiled_coil	306	333
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	pfam_DUF1609	355	579
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	pfam_DUF3654	166	305
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	seg_low complexity regions	306	322
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	seg_low complexity regions	327	369
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	seg_low complexity regions	370	385
+OG_1029#E.cuniculi@6035@ECU06_0080	E.cuniculi@6035@ECU06_0080	signalp_SIGNAL	1	24
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU05_1680	cast_E-rich	302	399
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU05_1680	cast_K-rich	284	458
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU05_1680	coils_coiled_coil	295	381
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU05_1680	pfam_DUF1609	386	611
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU05_1680	pfam_DUF3654	162	301
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU05_1680	seg_low complexity regions	211	232
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU05_1680	seg_low complexity regions	310	379
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	cast_E-rich	304	366
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	cast_K-rich	286	425
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	coils_coiled_coil	304	331
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	pfam_DUF1609	353	578
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	pfam_DUF3654	164	303
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	218	234
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	303	323
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	324	361
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	368	386
+OG_1029#E.cuniculi@6035@ECU06_1620	E.cuniculi@6035@ECU06_1620	seg_low complexity regions	399	420
+OG_1029#E.cuniculi@6035@ECU06_1670	E.cuniculi@6035@ECU06_0050	seg_low complexity regions	143	156
+OG_1029#E.cuniculi@6035@ECU06_1670	E.cuniculi@6035@ECU06_1670	seg_low complexity regions	143	156
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	cast_E-rich	185	259
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	cast_K-rich	185	324
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	coils_coiled_coil	202	229
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	pfam_DUF1609	251	476
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	pfam_DUF3654	45	184
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	185	197
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	206	236
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	238	260
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	266	282
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_0040	seg_low complexity regions	99	114
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	cast_E-rich	166	240
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	cast_K-rich	166	305
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	coils_coiled_coil	183	210
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	pfam_DUF1609	232	457
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	pfam_DUF3654	26	165
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	166	178
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	187	217
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	219	241
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	247	263
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	5	10
+OG_1029#E.cuniculi@6035@ECU06_1680	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	80	95
+OG_1029#E.cuniculi@6035@ECU07_0050	E.cuniculi@6035@ECU07_0050	pfam_DUF1609	1	215
+OG_1029#E.cuniculi@6035@ECU07_0050	E.hellem@27973@EHEL_050050	cast_E-rich	294	389
+OG_1029#E.cuniculi@6035@ECU07_0050	E.hellem@27973@EHEL_050050	pfam_DUF1609	375	583
+OG_1029#E.cuniculi@6035@ECU07_0050	E.hellem@27973@EHEL_050050	pfam_DUF3654	189	329
+OG_1029#E.cuniculi@6035@ECU07_0050	E.hellem@27973@EHEL_050050	seg_low complexity regions	245	257
+OG_1029#E.cuniculi@6035@ECU07_0050	E.hellem@27973@EHEL_050050	seg_low complexity regions	331	339
+OG_1029#E.cuniculi@6035@ECU07_0050	E.hellem@27973@EHEL_050050	seg_low complexity regions	347	375
+OG_1029#E.cuniculi@6035@ECU07_0050	E.hellem@27973@EHEL_050050	seg_low complexity regions	377	389
+OG_1029#E.cuniculi@6035@ECU07_0070	E.cuniculi@6035@ECU07_0070	cast_K-rich	320	462
+OG_1029#E.cuniculi@6035@ECU07_0070	E.cuniculi@6035@ECU07_0070	coils_coiled_coil	338	365
+OG_1029#E.cuniculi@6035@ECU07_0070	E.cuniculi@6035@ECU07_0070	pfam_DUF1609	390	614
+OG_1029#E.cuniculi@6035@ECU07_0070	E.cuniculi@6035@ECU07_0070	pfam_DUF3654	198	337
+OG_1029#E.cuniculi@6035@ECU07_0070	E.cuniculi@6035@ECU07_0070	seg_low complexity regions	338	349
+OG_1029#E.cuniculi@6035@ECU07_0070	E.cuniculi@6035@ECU07_0070	seg_low complexity regions	359	398
+OG_1029#E.cuniculi@6035@ECU07_0070	E.hellem@27973@EHEL_110010	pfam_DUF3654	61	201
+OG_1029#E.cuniculi@6035@ECU07_0070	E.hellem@27973@EHEL_110010	seg_low complexity regions	119	129
+OG_1029#E.cuniculi@6035@ECU07_0070	E.hellem@27973@EHEL_110010	seg_low complexity regions	194	241
+OG_1029#E.cuniculi@6035@ECU07_1880	E.cuniculi@6035@ECU06_0050	seg_low complexity regions	143	156
+OG_1029#E.cuniculi@6035@ECU07_1880	E.cuniculi@6035@ECU07_1880	seg_low complexity regions	143	156
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	cast_E-rich	166	240
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	cast_K-rich	166	305
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	coils_coiled_coil	183	210
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	pfam_DUF1609	232	457
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	pfam_DUF3654	26	165
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	166	178
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	187	217
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	219	241
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	247	263
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	5	10
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU06_1680	seg_low complexity regions	80	95
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	cast_E-rich	148	215
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	cast_K-rich	148	280
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	pfam_DUF1609	207	432
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	pfam_DUF3654	8	147
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	seg_low complexity regions	148	160
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	seg_low complexity regions	169	192
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	seg_low complexity regions	194	216
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	seg_low complexity regions	222	238
+OG_1029#E.cuniculi@6035@ECU07_1890	E.cuniculi@6035@ECU07_1890	seg_low complexity regions	62	77
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	cast_E-rich	356	423
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	cast_K-rich	356	488
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	pfam_DUF1609	415	640
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	pfam_DUF3654	216	355
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	seg_low complexity regions	143	156
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	seg_low complexity regions	270	285
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	seg_low complexity regions	356	368
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	seg_low complexity regions	377	400
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	seg_low complexity regions	402	424
+OG_1029#E.cuniculi@6035@ECU11_0030	E.cuniculi@6035@ECU11_0030	seg_low complexity regions	430	446
+OG_1029#E.cuniculi@6035@ECU11_0030	E.hellem@27973@EHEL_050050	cast_E-rich	294	389
+OG_1029#E.cuniculi@6035@ECU11_0030	E.hellem@27973@EHEL_050050	pfam_DUF1609	375	583
+OG_1029#E.cuniculi@6035@ECU11_0030	E.hellem@27973@EHEL_050050	pfam_DUF3654	189	329
+OG_1029#E.cuniculi@6035@ECU11_0030	E.hellem@27973@EHEL_050050	seg_low complexity regions	245	257
+OG_1029#E.cuniculi@6035@ECU11_0030	E.hellem@27973@EHEL_050050	seg_low complexity regions	331	339
+OG_1029#E.cuniculi@6035@ECU11_0030	E.hellem@27973@EHEL_050050	seg_low complexity regions	347	375
+OG_1029#E.cuniculi@6035@ECU11_0030	E.hellem@27973@EHEL_050050	seg_low complexity regions	377	389
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_021480	pfam_DUF3654	165	305
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_021480	seg_low complexity regions	21	38
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_021480	seg_low complexity regions	223	233
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_021480	seg_low complexity regions	298	322
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_021480	signalp_SIGNAL	1	17
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_031590	pfam_DUF3654	99	215
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_031590	seg_low complexity regions	157	167
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_031590	seg_low complexity regions	169	187
+OG_1029#E.hellem@27973@EHEL_021480	E.hellem@27973@EHEL_031590	tmhmm_transmembrane	7	24
+OG_1029#E.hellem@27973@EHEL_031590	E.cuniculi@6035@ECU01_0080	coils_coiled_coil	155	175
+OG_1029#E.hellem@27973@EHEL_031590	E.cuniculi@6035@ECU01_0080	pfam_DUF3654	162	301
+OG_1029#E.hellem@27973@EHEL_031590	E.cuniculi@6035@ECU01_0080	seg_low complexity regions	213	229
+OG_1029#E.hellem@27973@EHEL_031590	E.cuniculi@6035@ECU01_0080	seg_low complexity regions	312	327
+OG_1029#E.hellem@27973@EHEL_031590	E.hellem@27973@EHEL_031590	pfam_DUF3654	99	215
+OG_1029#E.hellem@27973@EHEL_031590	E.hellem@27973@EHEL_031590	seg_low complexity regions	157	167
+OG_1029#E.hellem@27973@EHEL_031590	E.hellem@27973@EHEL_031590	seg_low complexity regions	169	187
+OG_1029#E.hellem@27973@EHEL_031590	E.hellem@27973@EHEL_031590	tmhmm_transmembrane	7	24
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_050050	cast_E-rich	294	389
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_050050	pfam_DUF1609	375	583
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_050050	pfam_DUF3654	189	329
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_050050	seg_low complexity regions	245	257
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_050050	seg_low complexity regions	331	339
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_050050	seg_low complexity regions	347	375
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_050050	seg_low complexity regions	377	389
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_110010	pfam_DUF3654	61	201
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_110010	seg_low complexity regions	119	129
+OG_1029#E.hellem@27973@EHEL_050050	E.hellem@27973@EHEL_110010	seg_low complexity regions	194	241
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_091550	cast_K-rich	287	373
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_091550	coils_coiled_coil	157	177
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_091550	pfam_DUF3654	164	304
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_091550	seg_low complexity regions	159	181
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_091550	seg_low complexity regions	222	232
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_091550	seg_low complexity regions	235	255
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_091550	seg_low complexity regions	297	345
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_091550	signalp_SIGNAL	1	19
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_110010	pfam_DUF3654	61	201
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_110010	seg_low complexity regions	119	129
+OG_1029#E.hellem@27973@EHEL_091550	E.hellem@27973@EHEL_110010	seg_low complexity regions	194	241
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_021480	pfam_DUF3654	165	305
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_021480	seg_low complexity regions	21	38
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_021480	seg_low complexity regions	223	233
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_021480	seg_low complexity regions	298	322
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_021480	signalp_SIGNAL	1	17
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_100010	coils_coiled_coil	157	177
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_100010	pfam_DUF3654	164	298
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_100010	seg_low complexity regions	173	180
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_100010	seg_low complexity regions	220	232
+OG_1029#E.hellem@27973@EHEL_100010	E.hellem@27973@EHEL_100010	signalp_SIGNAL	1	23
+OG_1029#E.hellem@27973@EHEL_110010	E.hellem@27973@EHEL_031590	pfam_DUF3654	99	215
+OG_1029#E.hellem@27973@EHEL_110010	E.hellem@27973@EHEL_031590	seg_low complexity regions	157	167
+OG_1029#E.hellem@27973@EHEL_110010	E.hellem@27973@EHEL_031590	seg_low complexity regions	169	187
+OG_1029#E.hellem@27973@EHEL_110010	E.hellem@27973@EHEL_031590	tmhmm_transmembrane	7	24
+OG_1029#E.hellem@27973@EHEL_110010	E.hellem@27973@EHEL_110010	pfam_DUF3654	61	201
+OG_1029#E.hellem@27973@EHEL_110010	E.hellem@27973@EHEL_110010	seg_low complexity regions	119	129
+OG_1029#E.hellem@27973@EHEL_110010	E.hellem@27973@EHEL_110010	seg_low complexity regions	194	241
+OG_1029#E.intestinalis@876142@Eint_030020	E.cuniculi@6035@ECU01_0080	coils_coiled_coil	155	175
+OG_1029#E.intestinalis@876142@Eint_030020	E.cuniculi@6035@ECU01_0080	pfam_DUF3654	162	301
+OG_1029#E.intestinalis@876142@Eint_030020	E.cuniculi@6035@ECU01_0080	seg_low complexity regions	213	229
+OG_1029#E.intestinalis@876142@Eint_030020	E.cuniculi@6035@ECU01_0080	seg_low complexity regions	312	327
+OG_1029#E.intestinalis@876142@Eint_030020	E.intestinalis@876142@Eint_030020	cast_E-rich	277	366
+OG_1029#E.intestinalis@876142@Eint_030020	E.intestinalis@876142@Eint_030020	cast_G-rich	332	376
+OG_1029#E.intestinalis@876142@Eint_030020	E.intestinalis@876142@Eint_030020	coils_coiled_coil	161	185
+OG_1029#E.intestinalis@876142@Eint_030020	E.intestinalis@876142@Eint_030020	pfam_DUF3654	172	312
+OG_1029#E.intestinalis@876142@Eint_030020	E.intestinalis@876142@Eint_030020	seg_low complexity regions	167	190
+OG_1029#E.intestinalis@876142@Eint_030020	E.intestinalis@876142@Eint_030020	seg_low complexity regions	253	264
+OG_1029#E.intestinalis@876142@Eint_030020	E.intestinalis@876142@Eint_030020	seg_low complexity regions	319	378
+OG_1029#E.intestinalis@876142@Eint_030020	E.intestinalis@876142@Eint_030020	signalp_SIGNAL	1	25
+OG_1029#N.gruberi@5762@6344	E.cuniculi@6035@ECU06_0050	seg_low complexity regions	143	156
+OG_1029#N.gruberi@5762@6344	N.gruberi@5762@6344	pfam_AAA_22	29	210
+OG_1029#N.gruberi@5762@6344	N.gruberi@5762@6344	pfam_Synaptobrevin	132	220
+OG_1029#N.gruberi@5762@6344	N.gruberi@5762@6344	seg_low complexity regions	199	211
+OG_1029#N.gruberi@5762@6344	N.gruberi@5762@6344	tmhmm_transmembrane	199	221
+OG_1029#W.bancrofti@6293@16419	E.cuniculi@6035@ECU06_0050	seg_low complexity regions	143	156
+OG_1029#W.bancrofti@6293@16419	W.bancrofti@6293@16419	pfam_HRDC	58	124
+OG_1029#W.bancrofti@6293@16419	W.bancrofti@6293@16419	seg_low complexity regions	210	223
+OG_1029#W.bancrofti@6293@16419	W.bancrofti@6293@16419	smart_HRDC	27	49
+OG_1029#W.bancrofti@6293@16419	W.bancrofti@6293@16419	smart_HRDC	53	134

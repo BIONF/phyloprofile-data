@@ -1,0 +1,216 @@
+OG_1030#A.algerae@1288291@H312_02240	A.algerae@1288291@H312_02240	pfam_DUF5092	8	354
+OG_1030#A.algerae@1288291@H312_02240	A.algerae@1288291@H312_02240	seg_low complexity regions	273	287
+OG_1030#A.algerae@1288291@H312_02240	A.algerae@1288291@H312_02240	seg_low complexity regions	323	334
+OG_1030#A.algerae@1288291@H312_02240	A.algerae@1288291@H312_02240	tmhmm_transmembrane	316	338
+OG_1030#A.algerae@1288291@H312_02240	V.corneae@993615@VICG_00165	pfam_DUF5092	8	350
+OG_1030#A.algerae@1288291@H312_02240	V.corneae@993615@VICG_00165	seg_low complexity regions	276	281
+OG_1030#A.algerae@1288291@H312_02240	V.corneae@993615@VICG_00165	tmhmm_transmembrane	288	310
+OG_1030#A.algerae@1288291@H312_02240	V.corneae@993615@VICG_00165	tmhmm_transmembrane	314	336
+OG_1030#B.dendrobatidis@109871@4852	B.dendrobatidis@109871@4852	cast_S-rich	133	361
+OG_1030#B.dendrobatidis@109871@4852	B.dendrobatidis@109871@4852	cast_V-rich	460	500
+OG_1030#B.dendrobatidis@109871@4852	B.dendrobatidis@109871@4852	seg_low complexity regions	239	254
+OG_1030#B.dendrobatidis@109871@4852	B.dendrobatidis@109871@4852	seg_low complexity regions	460	472
+OG_1030#B.dendrobatidis@109871@4852	B.dendrobatidis@109871@4852	seg_low complexity regions	482	498
+OG_1030#B.dendrobatidis@109871@4852	B.dendrobatidis@109871@4852	tmhmm_transmembrane	456	478
+OG_1030#B.dendrobatidis@109871@4852	B.dendrobatidis@109871@4852	tmhmm_transmembrane	482	499
+OG_1030#B.dendrobatidis@109871@4852	E.intestinalis@876142@Eint_080670	pfam_DUF5092	5	350
+OG_1030#B.dendrobatidis@109871@4852	E.intestinalis@876142@Eint_080670	seg_low complexity regions	178	189
+OG_1030#B.dendrobatidis@109871@4852	E.intestinalis@876142@Eint_080670	seg_low complexity regions	296	309
+OG_1030#B.dendrobatidis@109871@4852	E.intestinalis@876142@Eint_080670	seg_low complexity regions	313	323
+OG_1030#B.dendrobatidis@109871@4852	E.intestinalis@876142@Eint_080670	tmhmm_transmembrane	288	310
+OG_1030#B.dendrobatidis@109871@4852	E.intestinalis@876142@Eint_080670	tmhmm_transmembrane	314	336
+OG_1030#E.aedis@70536@EDEG_01130	E.aedis@70536@EDEG_01130	pfam_DUF5092	6	347
+OG_1030#E.aedis@70536@EDEG_01130	E.aedis@70536@EDEG_01130	seg_low complexity regions	307	329
+OG_1030#E.aedis@70536@EDEG_01130	E.aedis@70536@EDEG_01130	tmhmm_transmembrane	285	304
+OG_1030#E.aedis@70536@EDEG_01130	E.aedis@70536@EDEG_01130	tmhmm_transmembrane	309	331
+OG_1030#E.aedis@70536@EDEG_01130	E.hellem@27973@EHEL_080680	pfam_DUF5092	5	349
+OG_1030#E.aedis@70536@EDEG_01130	E.hellem@27973@EHEL_080680	seg_low complexity regions	295	308
+OG_1030#E.aedis@70536@EDEG_01130	E.hellem@27973@EHEL_080680	seg_low complexity regions	312	322
+OG_1030#E.aedis@70536@EDEG_01130	E.hellem@27973@EHEL_080680	tmhmm_transmembrane	287	309
+OG_1030#E.aedis@70536@EDEG_01130	E.hellem@27973@EHEL_080680	tmhmm_transmembrane	313	335
+OG_1030#E.cuniculi@6035@ECU08_0720	E.cuniculi@6035@ECU08_0720	pfam_DUF5092	5	350
+OG_1030#E.cuniculi@6035@ECU08_0720	E.cuniculi@6035@ECU08_0720	seg_low complexity regions	296	309
+OG_1030#E.cuniculi@6035@ECU08_0720	E.cuniculi@6035@ECU08_0720	seg_low complexity regions	313	323
+OG_1030#E.cuniculi@6035@ECU08_0720	E.cuniculi@6035@ECU08_0720	tmhmm_transmembrane	288	310
+OG_1030#E.cuniculi@6035@ECU08_0720	E.cuniculi@6035@ECU08_0720	tmhmm_transmembrane	314	336
+OG_1030#E.cuniculi@6035@ECU08_0720	E.hellem@27973@EHEL_080680	pfam_DUF5092	5	349
+OG_1030#E.cuniculi@6035@ECU08_0720	E.hellem@27973@EHEL_080680	seg_low complexity regions	295	308
+OG_1030#E.cuniculi@6035@ECU08_0720	E.hellem@27973@EHEL_080680	seg_low complexity regions	312	322
+OG_1030#E.cuniculi@6035@ECU08_0720	E.hellem@27973@EHEL_080680	tmhmm_transmembrane	287	309
+OG_1030#E.cuniculi@6035@ECU08_0720	E.hellem@27973@EHEL_080680	tmhmm_transmembrane	313	335
+OG_1030#E.hellem@27973@EHEL_080680	E.cuniculi@6035@ECU08_0720	pfam_DUF5092	5	350
+OG_1030#E.hellem@27973@EHEL_080680	E.cuniculi@6035@ECU08_0720	seg_low complexity regions	296	309
+OG_1030#E.hellem@27973@EHEL_080680	E.cuniculi@6035@ECU08_0720	seg_low complexity regions	313	323
+OG_1030#E.hellem@27973@EHEL_080680	E.cuniculi@6035@ECU08_0720	tmhmm_transmembrane	288	310
+OG_1030#E.hellem@27973@EHEL_080680	E.cuniculi@6035@ECU08_0720	tmhmm_transmembrane	314	336
+OG_1030#E.hellem@27973@EHEL_080680	E.hellem@27973@EHEL_080680	pfam_DUF5092	5	349
+OG_1030#E.hellem@27973@EHEL_080680	E.hellem@27973@EHEL_080680	seg_low complexity regions	295	308
+OG_1030#E.hellem@27973@EHEL_080680	E.hellem@27973@EHEL_080680	seg_low complexity regions	312	322
+OG_1030#E.hellem@27973@EHEL_080680	E.hellem@27973@EHEL_080680	tmhmm_transmembrane	287	309
+OG_1030#E.hellem@27973@EHEL_080680	E.hellem@27973@EHEL_080680	tmhmm_transmembrane	313	335
+OG_1030#E.intestinalis@876142@Eint_080670	E.cuniculi@6035@ECU08_0720	pfam_DUF5092	5	350
+OG_1030#E.intestinalis@876142@Eint_080670	E.cuniculi@6035@ECU08_0720	seg_low complexity regions	296	309
+OG_1030#E.intestinalis@876142@Eint_080670	E.cuniculi@6035@ECU08_0720	seg_low complexity regions	313	323
+OG_1030#E.intestinalis@876142@Eint_080670	E.cuniculi@6035@ECU08_0720	tmhmm_transmembrane	288	310
+OG_1030#E.intestinalis@876142@Eint_080670	E.cuniculi@6035@ECU08_0720	tmhmm_transmembrane	314	336
+OG_1030#E.intestinalis@876142@Eint_080670	E.intestinalis@876142@Eint_080670	pfam_DUF5092	5	350
+OG_1030#E.intestinalis@876142@Eint_080670	E.intestinalis@876142@Eint_080670	seg_low complexity regions	178	189
+OG_1030#E.intestinalis@876142@Eint_080670	E.intestinalis@876142@Eint_080670	seg_low complexity regions	296	309
+OG_1030#E.intestinalis@876142@Eint_080670	E.intestinalis@876142@Eint_080670	seg_low complexity regions	313	323
+OG_1030#E.intestinalis@876142@Eint_080670	E.intestinalis@876142@Eint_080670	tmhmm_transmembrane	288	310
+OG_1030#E.intestinalis@876142@Eint_080670	E.intestinalis@876142@Eint_080670	tmhmm_transmembrane	314	336
+OG_1030#E.bieneusi@31281@EBI_21683	E.bieneusi@31281@EBI_21683	pfam_DUF5092	23	134
+OG_1030#E.bieneusi@31281@EBI_21683	E.bieneusi@31281@EBI_24061	pfam_DUF5092	24	194
+OG_1030#E.bieneusi@31281@EBI_22710	E.bieneusi@31281@EBI_22710	pfam_DUF5092	23	142
+OG_1030#E.bieneusi@31281@EBI_22710	E.bieneusi@31281@EBI_24061	pfam_DUF5092	24	194
+OG_1030#E.bieneusi@31281@EBI_23289	E.bieneusi@31281@EBI_23289	coils_coiled_coil	80	100
+OG_1030#E.bieneusi@31281@EBI_23289	E.bieneusi@31281@EBI_23289	pfam_DUF5092	1	230
+OG_1030#E.bieneusi@31281@EBI_23289	E.bieneusi@31281@EBI_23289	seg_low complexity regions	152	161
+OG_1030#E.bieneusi@31281@EBI_23289	E.bieneusi@31281@EBI_23289	seg_low complexity regions	184	203
+OG_1030#E.bieneusi@31281@EBI_23289	E.bieneusi@31281@EBI_23289	tmhmm_transmembrane	168	190
+OG_1030#E.bieneusi@31281@EBI_23289	E.bieneusi@31281@EBI_23289	tmhmm_transmembrane	194	216
+OG_1030#E.bieneusi@31281@EBI_23289	E.bieneusi@31281@EBI_24130	coils_coiled_coil	80	100
+OG_1030#E.bieneusi@31281@EBI_23289	E.bieneusi@31281@EBI_24130	pfam_DUF5092	1	150
+OG_1030#E.bieneusi@31281@EBI_23687	E.bieneusi@31281@EBI_21683	pfam_DUF5092	23	134
+OG_1030#E.bieneusi@31281@EBI_23687	E.bieneusi@31281@EBI_23687	coils_coiled_coil	191	211
+OG_1030#E.bieneusi@31281@EBI_23687	E.bieneusi@31281@EBI_23687	pfam_DUF5092	25	302
+OG_1030#E.bieneusi@31281@EBI_23687	E.bieneusi@31281@EBI_23687	seg_low complexity regions	263	272
+OG_1030#E.bieneusi@31281@EBI_23687	E.bieneusi@31281@EBI_23687	tmhmm_transmembrane	280	302
+OG_1030#E.bieneusi@31281@EBI_23798	A.algerae@1288291@H312_02240	pfam_DUF5092	8	354
+OG_1030#E.bieneusi@31281@EBI_23798	A.algerae@1288291@H312_02240	seg_low complexity regions	273	287
+OG_1030#E.bieneusi@31281@EBI_23798	A.algerae@1288291@H312_02240	seg_low complexity regions	323	334
+OG_1030#E.bieneusi@31281@EBI_23798	A.algerae@1288291@H312_02240	tmhmm_transmembrane	316	338
+OG_1030#E.bieneusi@31281@EBI_23798	E.bieneusi@31281@EBI_23798	coils_coiled_coil	191	211
+OG_1030#E.bieneusi@31281@EBI_23798	E.bieneusi@31281@EBI_23798	pfam_DUF5092	25	311
+OG_1030#E.bieneusi@31281@EBI_23798	E.bieneusi@31281@EBI_23798	seg_low complexity regions	263	272
+OG_1030#E.bieneusi@31281@EBI_23798	E.bieneusi@31281@EBI_23798	seg_low complexity regions	295	314
+OG_1030#E.bieneusi@31281@EBI_23798	E.bieneusi@31281@EBI_23798	tmhmm_transmembrane	286	308
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_23854	coils_coiled_coil	8	28
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_23854	pfam_DUF5092	5	158
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_23854	seg_low complexity regions	112	131
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_23854	seg_low complexity regions	80	89
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_23854	tmhmm_transmembrane	122	144
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_23854	tmhmm_transmembrane	96	118
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_24519	pfam_DUF5092	2	137
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_24519	seg_low complexity regions	59	68
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_24519	seg_low complexity regions	91	110
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_24519	tmhmm_transmembrane	101	123
+OG_1030#E.bieneusi@31281@EBI_23854	E.bieneusi@31281@EBI_24519	tmhmm_transmembrane	75	97
+OG_1030#E.bieneusi@31281@EBI_24061	E.bieneusi@31281@EBI_21683	pfam_DUF5092	23	134
+OG_1030#E.bieneusi@31281@EBI_24061	E.bieneusi@31281@EBI_24061	pfam_DUF5092	24	194
+OG_1030#E.bieneusi@31281@EBI_24078	E.bieneusi@31281@EBI_24078	coils_coiled_coil	71	91
+OG_1030#E.bieneusi@31281@EBI_24078	E.bieneusi@31281@EBI_24078	pfam_DUF5092	1	221
+OG_1030#E.bieneusi@31281@EBI_24078	E.bieneusi@31281@EBI_24078	seg_low complexity regions	143	152
+OG_1030#E.bieneusi@31281@EBI_24078	E.bieneusi@31281@EBI_24078	seg_low complexity regions	175	194
+OG_1030#E.bieneusi@31281@EBI_24078	E.bieneusi@31281@EBI_24078	tmhmm_transmembrane	159	181
+OG_1030#E.bieneusi@31281@EBI_24078	E.bieneusi@31281@EBI_24078	tmhmm_transmembrane	185	207
+OG_1030#E.bieneusi@31281@EBI_24078	E.bieneusi@31281@EBI_24130	coils_coiled_coil	80	100
+OG_1030#E.bieneusi@31281@EBI_24078	E.bieneusi@31281@EBI_24130	pfam_DUF5092	1	150
+OG_1030#E.bieneusi@31281@EBI_24104	E.bieneusi@31281@EBI_24061	pfam_DUF5092	24	194
+OG_1030#E.bieneusi@31281@EBI_24104	E.bieneusi@31281@EBI_24104	coils_coiled_coil	191	211
+OG_1030#E.bieneusi@31281@EBI_24104	E.bieneusi@31281@EBI_24104	pfam_DUF5092	26	235
+OG_1030#E.bieneusi@31281@EBI_24130	E.bieneusi@31281@EBI_24130	coils_coiled_coil	80	100
+OG_1030#E.bieneusi@31281@EBI_24130	E.bieneusi@31281@EBI_24130	pfam_DUF5092	1	150
+OG_1030#E.bieneusi@31281@EBI_24130	E.bieneusi@31281@EBI_24158	coils_coiled_coil	80	100
+OG_1030#E.bieneusi@31281@EBI_24130	E.bieneusi@31281@EBI_24158	pfam_DUF5092	1	217
+OG_1030#E.bieneusi@31281@EBI_24130	E.bieneusi@31281@EBI_24158	seg_low complexity regions	152	161
+OG_1030#E.bieneusi@31281@EBI_24158	E.bieneusi@31281@EBI_24130	coils_coiled_coil	80	100
+OG_1030#E.bieneusi@31281@EBI_24158	E.bieneusi@31281@EBI_24130	pfam_DUF5092	1	150
+OG_1030#E.bieneusi@31281@EBI_24158	E.bieneusi@31281@EBI_24158	coils_coiled_coil	80	100
+OG_1030#E.bieneusi@31281@EBI_24158	E.bieneusi@31281@EBI_24158	pfam_DUF5092	1	217
+OG_1030#E.bieneusi@31281@EBI_24158	E.bieneusi@31281@EBI_24158	seg_low complexity regions	152	161
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_24519	pfam_DUF5092	2	137
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_24519	seg_low complexity regions	59	68
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_24519	seg_low complexity regions	91	110
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_24519	tmhmm_transmembrane	101	123
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_24519	tmhmm_transmembrane	75	97
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_25432	pfam_DUF5092	1	113
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_25432	seg_low complexity regions	35	44
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_25432	seg_low complexity regions	67	86
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_25432	tmhmm_transmembrane	51	73
+OG_1030#E.bieneusi@31281@EBI_24519	E.bieneusi@31281@EBI_25432	tmhmm_transmembrane	77	99
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_23289	coils_coiled_coil	80	100
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_23289	pfam_DUF5092	1	230
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_23289	seg_low complexity regions	152	161
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_23289	seg_low complexity regions	184	203
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_23289	tmhmm_transmembrane	168	190
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_23289	tmhmm_transmembrane	194	216
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_24740	coils_coiled_coil	136	156
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_24740	pfam_DUF5092	3	286
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_24740	seg_low complexity regions	208	217
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_24740	seg_low complexity regions	240	259
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_24740	tmhmm_transmembrane	224	246
+OG_1030#E.bieneusi@31281@EBI_24740	E.bieneusi@31281@EBI_24740	tmhmm_transmembrane	250	272
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_24519	pfam_DUF5092	2	137
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_24519	seg_low complexity regions	59	68
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_24519	seg_low complexity regions	91	110
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_24519	tmhmm_transmembrane	101	123
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_24519	tmhmm_transmembrane	75	97
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_25432	pfam_DUF5092	1	113
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_25432	seg_low complexity regions	35	44
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_25432	seg_low complexity regions	67	86
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_25432	tmhmm_transmembrane	51	73
+OG_1030#E.bieneusi@31281@EBI_25432	E.bieneusi@31281@EBI_25432	tmhmm_transmembrane	77	99
+OG_1030#E.bieneusi@31281@EBI_25975	E.bieneusi@31281@EBI_21683	pfam_DUF5092	23	134
+OG_1030#E.bieneusi@31281@EBI_25975	E.bieneusi@31281@EBI_25975	pfam_DUF5092	24	168
+OG_1030#N.parisii@586133@NEPG_01709	N.parisii@586133@NEPG_01709	cast_L-rich	279	321
+OG_1030#N.parisii@586133@NEPG_01709	N.parisii@586133@NEPG_01709	pfam_B3	179	258
+OG_1030#N.parisii@586133@NEPG_01709	N.parisii@586133@NEPG_01709	pfam_DUF5092	6	336
+OG_1030#N.parisii@586133@NEPG_01709	N.parisii@586133@NEPG_01709	seg_low complexity regions	288	321
+OG_1030#N.parisii@586133@NEPG_01709	N.parisii@586133@NEPG_01709	smart_B3	181	258
+OG_1030#N.parisii@586133@NEPG_01709	N.parisii@586133@NEPG_01709	tmhmm_transmembrane	274	296
+OG_1030#N.parisii@586133@NEPG_01709	N.parisii@586133@NEPG_01709	tmhmm_transmembrane	300	322
+OG_1030#N.parisii@586133@NEPG_01709	N.ceranae@40302@NCER_101252	pfam_DUF5092	6	349
+OG_1030#N.parisii@586133@NEPG_01709	N.ceranae@40302@NCER_101252	seg_low complexity regions	249	258
+OG_1030#N.parisii@586133@NEPG_01709	N.ceranae@40302@NCER_101252	seg_low complexity regions	295	334
+OG_1030#N.parisii@586133@NEPG_01709	N.ceranae@40302@NCER_101252	tmhmm_transmembrane	292	314
+OG_1030#N.parisii@586133@NEPG_01709	N.ceranae@40302@NCER_101252	tmhmm_transmembrane	318	335
+OG_1030#N.ceranae@40302@NCER_101252	E.hellem@27973@EHEL_080680	pfam_DUF5092	5	349
+OG_1030#N.ceranae@40302@NCER_101252	E.hellem@27973@EHEL_080680	seg_low complexity regions	295	308
+OG_1030#N.ceranae@40302@NCER_101252	E.hellem@27973@EHEL_080680	seg_low complexity regions	312	322
+OG_1030#N.ceranae@40302@NCER_101252	E.hellem@27973@EHEL_080680	tmhmm_transmembrane	287	309
+OG_1030#N.ceranae@40302@NCER_101252	E.hellem@27973@EHEL_080680	tmhmm_transmembrane	313	335
+OG_1030#N.ceranae@40302@NCER_101252	N.ceranae@40302@NCER_101252	pfam_DUF5092	6	349
+OG_1030#N.ceranae@40302@NCER_101252	N.ceranae@40302@NCER_101252	seg_low complexity regions	249	258
+OG_1030#N.ceranae@40302@NCER_101252	N.ceranae@40302@NCER_101252	seg_low complexity regions	295	334
+OG_1030#N.ceranae@40302@NCER_101252	N.ceranae@40302@NCER_101252	tmhmm_transmembrane	292	314
+OG_1030#N.ceranae@40302@NCER_101252	N.ceranae@40302@NCER_101252	tmhmm_transmembrane	318	335
+OG_1030#S.punctatus@109760@1372	E.bieneusi@31281@EBI_24130	coils_coiled_coil	80	100
+OG_1030#S.punctatus@109760@1372	E.bieneusi@31281@EBI_24130	pfam_DUF5092	1	150
+OG_1030#S.punctatus@109760@1372	S.punctatus@109760@1372	cast_S-rich	137	462
+OG_1030#S.punctatus@109760@1372	S.punctatus@109760@1372	seg_low complexity regions	157	181
+OG_1030#S.punctatus@109760@1372	S.punctatus@109760@1372	seg_low complexity regions	195	207
+OG_1030#S.punctatus@109760@1372	S.punctatus@109760@1372	seg_low complexity regions	251	275
+OG_1030#S.punctatus@109760@1372	S.punctatus@109760@1372	seg_low complexity regions	325	344
+OG_1030#S.punctatus@109760@1372	S.punctatus@109760@1372	seg_low complexity regions	430	450
+OG_1030#S.punctatus@109760@1372	S.punctatus@109760@1372	seg_low complexity regions	538	551
+OG_1030#T.trahens@529818@6714	E.bieneusi@31281@EBI_25432	pfam_DUF5092	1	113
+OG_1030#T.trahens@529818@6714	E.bieneusi@31281@EBI_25432	seg_low complexity regions	35	44
+OG_1030#T.trahens@529818@6714	E.bieneusi@31281@EBI_25432	seg_low complexity regions	67	86
+OG_1030#T.trahens@529818@6714	E.bieneusi@31281@EBI_25432	tmhmm_transmembrane	51	73
+OG_1030#T.trahens@529818@6714	E.bieneusi@31281@EBI_25432	tmhmm_transmembrane	77	99
+OG_1030#T.trahens@529818@6714	T.trahens@529818@6714	cast_G-rich	141	189
+OG_1030#T.trahens@529818@6714	T.trahens@529818@6714	seg_low complexity regions	143	197
+OG_1030#T.trahens@529818@6714	T.trahens@529818@6714	seg_low complexity regions	222	235
+OG_1030#T.trahens@529818@6714	T.trahens@529818@6714	tmhmm_transmembrane	292	314
+OG_1030#T.trahens@529818@6714	T.trahens@529818@6714	tmhmm_transmembrane	329	348
+OG_1030#T.trahens@529818@6714	T.trahens@529818@6714	tmhmm_transmembrane	355	377
+OG_1030#T.trahens@529818@6714	T.trahens@529818@6714	tmhmm_transmembrane	392	414
+OG_1030#V.culicis@103449@VCUG_00005	V.culicis@103449@VCUG_00005	cast_L-rich	286	335
+OG_1030#V.culicis@103449@VCUG_00005	V.culicis@103449@VCUG_00005	pfam_DUF5092	11	348
+OG_1030#V.culicis@103449@VCUG_00005	V.culicis@103449@VCUG_00005	seg_low complexity regions	287	311
+OG_1030#V.culicis@103449@VCUG_00005	V.culicis@103449@VCUG_00005	tmhmm_transmembrane	287	309
+OG_1030#V.culicis@103449@VCUG_00005	V.culicis@103449@VCUG_00005	tmhmm_transmembrane	313	335
+OG_1030#V.culicis@103449@VCUG_00005	V.corneae@993615@VICG_00165	pfam_DUF5092	8	350
+OG_1030#V.culicis@103449@VCUG_00005	V.corneae@993615@VICG_00165	seg_low complexity regions	276	281
+OG_1030#V.culicis@103449@VCUG_00005	V.corneae@993615@VICG_00165	tmhmm_transmembrane	288	310
+OG_1030#V.culicis@103449@VCUG_00005	V.corneae@993615@VICG_00165	tmhmm_transmembrane	314	336
+OG_1030#V.corneae@993615@VICG_00165	N.ceranae@40302@NCER_101252	pfam_DUF5092	6	349
+OG_1030#V.corneae@993615@VICG_00165	N.ceranae@40302@NCER_101252	seg_low complexity regions	249	258
+OG_1030#V.corneae@993615@VICG_00165	N.ceranae@40302@NCER_101252	seg_low complexity regions	295	334
+OG_1030#V.corneae@993615@VICG_00165	N.ceranae@40302@NCER_101252	tmhmm_transmembrane	292	314
+OG_1030#V.corneae@993615@VICG_00165	N.ceranae@40302@NCER_101252	tmhmm_transmembrane	318	335
+OG_1030#V.corneae@993615@VICG_00165	V.corneae@993615@VICG_00165	pfam_DUF5092	8	350
+OG_1030#V.corneae@993615@VICG_00165	V.corneae@993615@VICG_00165	seg_low complexity regions	276	281
+OG_1030#V.corneae@993615@VICG_00165	V.corneae@993615@VICG_00165	tmhmm_transmembrane	288	310
+OG_1030#V.corneae@993615@VICG_00165	V.corneae@993615@VICG_00165	tmhmm_transmembrane	314	336
