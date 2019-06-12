@@ -1,9 +1,9 @@
-# Data for [PhyloProfile](https://github.com/BIONF/PhyloProfile)
+# Demo and test data for [PhyloProfile](https://github.com/BIONF/PhyloProfile)
 
-The above 5 text files (<code>idList.txt, rankList.txt, taxonomyMatrix.txt, taxonNamesReduced.txt and taxonNamesFull.txt</code>) will be automatically downloaded into **_data_** folder of [PhyloProfile](https://github.com/BIONF/PhyloProfile) when user runs the tool for the first time. They contains pre-calculated taxonomy information for about 280 taxa. Depend on the input taxa list, new information will be added into those files. The taxonNamesFull.txt file contains NCBI taxonomy information downloaded on 13.05.2019.
+*Only for internal use*
 
-In `demo` and `expTestData/ampk-tor` folders you can find the online demo files, which are used when the option **Use online demo data** in `Input & settings` page is chosen.
+The two files `ampk-tor.zip` and `arthropoda.zip` contain data for two demo set used by PhyloProfile tool. These data are described and can be retrieved via Bioconductor ExperimentHub and the [PhyloProfileData](https://github.com/BIONF/PhyloProfileData) package.
 
-`expTestData` folder contains three *.zip* files for real experimental data sets that can be downloaded and manually given to PhyloProfile.
+In `otherExpTestData` folder you can find other two experimental data sets that can be downloaded and manually given to PhyloProfile.
 
-To learn about how to format the input data for PhyloProfile, please take a look at our [Wiki page](https://github.com/BIONF/PhyloProfile/wiki/Input-Data).
+The `demoInput` folder contains several input files in different format. To learn about how to format the input data for PhyloProfile, please take a look at our [Wiki page](https://github.com/BIONF/PhyloProfile/wiki/Input-Data).
