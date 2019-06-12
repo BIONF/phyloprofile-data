@@ -1,6 +1,6 @@
 # Demo and test data for [PhyloProfile](https://github.com/BIONF/PhyloProfile)
 
-*Only for internal use*
+*ONLY FOR INTERNAL USE. These files are not required for PhyloProfile (except the two MD files for describing ampt-tor and arthropoda data set)*
 
 The two files `ampk-tor.zip` and `arthropoda.zip` contain data for two demo set used by PhyloProfile tool. These data are described and can be retrieved via Bioconductor ExperimentHub and the [PhyloProfileData](https://github.com/BIONF/PhyloProfileData) package.
 
