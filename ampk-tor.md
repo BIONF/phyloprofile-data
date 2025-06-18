@@ -8,7 +8,7 @@ This folder contains phylogenetic profile data for AMPK-TOR pathway, which is ba
 ## Content
 - **Main input file** (phylogenetic profile integrated with forward and backward domain similarity scores): `ampk-tor.phyloprofile`
 
-- Optional **Domain files**: `domains_F` ( for forward scores) . _You can optionally give this file under the **Additional annotation input** upload on the *Input & settings* page after startup._
+- Optional **Domain files**: `ampk-tor.domains_F` ( for forward scores) . _You can optionally give this file under the **Additional annotation input** upload on the *Input & settings* page after startup._
 
 - Optional **FASTA sequence file**:  `ampk-tor.extended.fa`. _You can input this file into `FASTA config` -> `Choose location for: Concatenated fasta file`_.
 
