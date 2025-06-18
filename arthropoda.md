@@ -8,7 +8,7 @@ This folder contains phylogenetic profile data for BUSCO Arthropoda proteins. Tw
 ## Content
 - **Main input file** (phylogenetic profile integrated with forward and backward domain similarity scores): `arthropoda.phyloprofile`
 
-- Optional **Domain files**: *too large for uploading!!!*
+- Optional **Domain files**: `arthropoda.domains` ( for forward scores) . _You can optionally give this file under the **Additional annotation input** upload on the *Input & settings* page after startup._
 
 - Optional **FASTA sequence file**:  `arthropoda.extended.fa`. _You can input this file into `FASTA config` -> `Choose location for: Concatenated fasta file`_.
 
